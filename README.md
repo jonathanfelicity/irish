@@ -1,2 +1,3 @@
 # irish
-A simple database system
+
+A personal attemp to build a simple database system
